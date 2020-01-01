@@ -73,7 +73,7 @@ def movies_with_directors_set(source)
     array << movies_with_director_key(name, movies)
     i += 1 
   end 
- print array 
+ array 
 end
 
 
